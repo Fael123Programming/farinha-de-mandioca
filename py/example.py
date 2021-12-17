@@ -4,3 +4,4 @@ class Example:
         print("This is the example class number 1")
 
 Example.main()
+print(Example.__class__)
